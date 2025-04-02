@@ -56,6 +56,7 @@ This project consists of four repositories. You can access and download each rep
 1. **After download all the repositores**:
    After you download all the repositories, you can move all the scripts into separate files within a folder (file_directory_management_Program). The main.sh file is where you can run the entire program.
    ```bash
+   mkdir file_directory_management_Program
    cd file_directory_management_Program
 
 2. Give execution permissions to all scripts:
@@ -67,7 +68,6 @@ This project consists of four repositories. You can access and download each rep
     To run the program, execute the main script:
 
     ./main.sh
-
 
 ## Individual Script Usage
 
@@ -86,7 +86,6 @@ This project consists of four repositories. You can access and download each rep
 
     + Bash shell
     + GNU core utilities (ls, cp, find, wc, du, tar)
-
 
 ## Logs
 
