@@ -41,7 +41,7 @@ This project consists of four repositories. You can access and download each rep
 ### Repositories and Links
 
 1. **list_files.sh and backup.sh Script**  
-   - 🔗 [GitHub Repository - list_files.sh and backup.sh](https://github.com/YourUsername/list-files-script)  
+   - 🔗 [GitHub Repository - list_files.sh and backup.sh](https://github.com/sotheaweb/Ne_0s_project.git)  
 
 2. **count_files.sh + disk_usage.sh Script**  
    - 🔗 [GitHub Repository - count_files.sh + disk_usage.sh](https://github.com/sotheaweb/OS-project.git)  
