@@ -50,7 +50,7 @@ This project consists of four repositories. You can access and download each rep
    - 🔗 [GitHub Repository - search_file.sh + compress.sh](https://github.com/penhleakhena/Project-OS.git)  
 
 4. **logger.sh and main.sh Script**  
-   - 🔗 [GitHub Repository - logger.sh and main.sh](https://github.com/YourUsername/logger-script)  
+   - 🔗 [GitHub Repository - logger.sh and main.sh](https://github.com/PinRathana/file_directory_management_Program.git)  
 
 #### Steps
 1. **After download all the repositores**:
