@@ -44,7 +44,7 @@ This project consists of four repositories. You can access and download each rep
    - 🔗 [GitHub Repository - list_files.sh and backup.sh](https://github.com/YourUsername/list-files-script)  
 
 2. **count_files.sh + disk_usage.sh Script**  
-   - 🔗 [GitHub Repository - count_files.sh + disk_usage.sh](https://github.com/YourUsername/backup-script)  
+   - 🔗 [GitHub Repository - count_files.sh + disk_usage.sh](https://github.com/sotheaweb/OS-project.git)  
    
 3. **search_file.sh + compress.sh Script**  
    - 🔗 [GitHub Repository - search_file.sh + compress.sh](https://github.com/penhleakhena/Project-OS.git)  
